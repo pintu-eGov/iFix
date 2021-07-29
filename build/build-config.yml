@@ -10,5 +10,5 @@
 config:
   - name: "builds/iFix/core/libraries/ifix-services-common"
     build:
-      - work-dir: "ifix-services-common"
+      - work-dir: "core/libraries/ifix-services-common"
         image-name: "ifix-services-common"
